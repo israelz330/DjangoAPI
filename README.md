@@ -1,2 +1,2 @@
-# DjangoAPI
-Simple Django API
+# DjangoSampleProject
+Simple Django Project from the official Django documentation.
